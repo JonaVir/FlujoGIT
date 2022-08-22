@@ -26,3 +26,10 @@ git remote add FlujoGIT_Origin git@github.com:Cartoimagen/FlujoGIT.git
 
 Eliminar remotos
 git remote remove FlujoGIT_Origin
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas o releses solo deben ser creadas en la rama master del proyecto raiz.
+
+para entender como llamar o categorizar a tus versiones te recomendamos un articulo en nuestro blog:
+https://ed.team/blog/como-se-deciden-las-versiones-del-software
